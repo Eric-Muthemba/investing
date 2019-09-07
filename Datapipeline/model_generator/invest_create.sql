@@ -1,3 +1,4 @@
+
 CREATE TABLE Company (
     id bigserial  NOT NULL,
     Country varchar(50)  NOT NULL,

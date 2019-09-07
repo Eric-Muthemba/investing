@@ -1,0 +1,2 @@
+CREATE DATABASE reactdb;
+CREATE DATABASE testdb;
